@@ -7,4 +7,4 @@ Throughout my academic journey, I have developed a strong foundation in data ana
 
 If you are interested in discussing data-driven insights, problem-solving, or anything related to data science, feel free to reach out to me (aymanrafif00@gmail.com).
 
-In this repositories, you can see all my Data Engineering Projects.
+In this repository, you can see all my Data Engineering Projects.
