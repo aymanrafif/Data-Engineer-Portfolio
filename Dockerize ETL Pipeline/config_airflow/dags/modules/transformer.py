@@ -1,3 +1,4 @@
+import pandas as pd
 import sqlalchemy
 from sqlalchemy import create_engine
 from sqlalchemy.sql import text, func
