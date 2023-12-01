@@ -9,7 +9,7 @@ class CovidScrapper():
     def get_data(self):
         response = requests.get(self.url)
         result = response.json()['data']['content']
-        logging.info("GETT")
+        logging.info("GET")
         df = pd.json_normalize(result)
         logging.info("DATA READY")
         return df
